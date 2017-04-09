@@ -2,11 +2,12 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>.NETWorkService</title>
     <authors>CYINT Technologies</authors>
     <owners>CYINT Technologies</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/dfredriksen/NETWorkService</projectUrl>
     <description>.NET Framework network services library</description>
     <releaseNotes>Wraps some basic network service functions for the .NET Framework</releaseNotes>
     <copyright>Copyright 2017</copyright>
